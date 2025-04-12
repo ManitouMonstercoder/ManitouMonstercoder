@@ -9,6 +9,7 @@
 ### 🔧 Tech Stack & Tools
 
 - **Languages**: Python, C++, HTML5, CSS3, SQL,JavaScript
+- **Frameworks & APIs**: Django, Flask, FastAPI, RESTful API development
 - **Data & BI**: Tableau, Power BI, Pandas, Plotly, scikit-learn, dbt
 - **Security**: Scapy, Network Monitoring, Vulnerability Scanning
 - **Version Control**: Git & GitHub
