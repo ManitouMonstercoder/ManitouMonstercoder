@@ -11,37 +11,17 @@
 - **Languages**: Python, C++, HTML5, CSS3, SQL,JavaScript
 - **Frameworks & APIs**: Django, Flask, FastAPI, RESTful API development
 - **Data & BI**: Tableau, Power BI, Pandas, Plotly, scikit-learn, dbt
-- **Security**: Scapy, Network Monitoring, Vulnerability Scanning
+- **Security**: Kali, Scapy, Network Monitoring, Vulnerability Scanning
 - **Version Control**: Git & GitHub
 - **Soft Skills**: Data storytelling, critical thinking, teamwork
 
----
-
-### 📊 Featured Projects
-
-🌐 [Global Energy Trends Dashboard](https://github.com/ManitouMonstercoder/Global-Energy-Trends-Dashboard)  
-Visualizes worldwide renewable energy adoption using Tableau and Python.
-
-🛡️ [Network Security Monitoring System](https://github.com/ManitouMonstercoder/Network-Security-Monitoring-System)  
-Real-time monitoring system for suspicious network activity using Scapy and Python.
-
-🔍 [Automated Vulnerability Scanner](https://github.com/ManitouMonstercoder/Automated-Vulnerability-Scanner)  
-Lightweight Python tool for detecting XSS vulnerabilities with a Streamlit-based UI.
-
----
-
 ### 💡 Fun Facts
-
-- 🌱 Currently learning: advanced BI workflows and ethical hacking
-- 💬 Ask me about data visualization or building security tools in Python
-- 🧠 Favorite quote: *“Data beats opinion.” — Jeff Bezos*
-- 🎯 Goal for 2025: Contribute to open-source projects and land a BI Analyst internship
+- 🧠 Favorite quote: *“Data beats opinion.” — Jeff Bezos*,*"LOVE CODE BUG."-- By me*
+- 🎯 Goal for 2025: Contribute to open-source projects
 
 ---
 
 ### 📫 Let's Connect
-
-📬 Email: [fideleamazing@gmail.com](mailto:fideleamazing@gmail.com)  
 🌐 Portfolio: [https://setvera.org](https://setvera.org)  
  
 
